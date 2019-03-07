@@ -1,0 +1,98 @@
+{
+    "hamada": {
+        "infomation": {
+            "age": 18,
+            "name": {
+                "first_name": {
+                    "漢字": "誉輝", 
+                    "カタカナ": "タカキ",
+                    "Alphabet": "Takaki"
+                },
+                "last_name": {
+                    "漢字": "濱田",
+                    "カタカナ": "ハマダ",
+                    "Alphabet": "Hamada"
+                }
+            },
+            "school": {
+                "name": "NIT, Tokuyama College",
+                "grade": 3,
+                "class": ["IE", "情報電子工学科"],
+                "club": ["blassband club"]
+            },
+            "birthday": "2001/02/11"
+        },
+        "like": {
+            "very much": [
+                "math",
+                "programming",
+                "sweets",
+                "jellyfish",
+                "aquarium",
+                "movie"
+            ],
+            "contents": {
+                "comic": [
+                    "やがて君になる/bloom into you",
+                    "あの娘にキスと白百合を/kiss and white lily for my dearest girl",
+                    "熱帯魚は雪に焦がれる",
+                    "ふりだしにおちる",
+                    "ゆるキャン△",
+                    "月が綺麗ですね",
+                    "ステラのまほう"
+                ],
+                "game": [
+                    "idle m@ster millionlive theater days",
+                    "idle m@ster shiny colors",
+                    "idle m@ster cinderella girls starlight stage",
+                    "Dance Rush Stardom",
+                    "Dance Dance Revolution",
+                    "Bang Dream Girls Band Party"
+                ],
+                "movie": [
+                    "Kingsman",
+                    "whiplash",
+                    "Fast Furious"
+                ]
+            }
+        },
+        "interasting": {
+            "technology": [
+                "Elixir/Phoenix",
+                "Golang",
+                "Google Cloud Platform",
+                "Rust",
+                "FPGA",
+                "Scala",
+                "React.js",
+                "Nuxt.js",
+                "Infrastructure",
+                "DevOps",
+                "Infrastructure as Code"
+            ],
+            "science": {
+                "math": [
+                    "Machine Learning", 
+                    "Analysis",
+                    "Vector Calculus",
+                    "Algebra",
+                    "Geometria"
+                ],
+                "Computer Science": [
+                    "Linux",
+                    "Type Theory",
+                    "Network",
+                    "Functional Programming"
+                ],
+                "Interface": [
+                    "Human Interface",
+                    "User Interface",
+                    "Interface Design"
+                ],
+                "Physics": [
+                    "Quantum mechanics"
+                ]
+            }
+        }
+    }
+}
