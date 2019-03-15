@@ -1,5 +1,5 @@
 {
-    "hamada": {
+    "me": {
         "infomation": {
             "age": 18,
             "name": {
@@ -15,26 +15,37 @@
                 }
             },
             "school": {
-                "name": "NIT, Tokuyama College",
+                "name": "徳山高専(NIT, Tokuyama College)",
                 "grade": 3,
-                "class": ["IE", "情報電子工学科"],
-                "club": ["blassband club"]
+                "class": "IE/情報電子工学科",
+                "club": [
+                    "吹奏楽部"
+                ]
             },
-            "birthday": "2001/02/11"
+            "birthday": "2001/02/11",
+            "contact": {
+                "Twitter": "@hmd03230101",
+                "GitHub": "hamadatakaki"
+            }
         },
         "like": {
             "very much": [
-                "math",
-                "programming",
-                "sweets",
-                "jellyfish",
-                "aquarium",
-                "movie"
+                "数学",
+                "プログラミング",
+                "甘くて美味しいお菓子",
+                "クラゲ",
+                "水族館",
+                "映画",
+                "百合",
+                "温泉",
+                "ドラム",
+                "イラスト",
+                "旅行"
             ],
             "contents": {
                 "comic": [
-                    "やがて君になる/bloom into you",
-                    "あの娘にキスと白百合を/kiss and white lily for my dearest girl",
+                    "やがて君になる",
+                    "あの娘にキスと白百合を",
                     "熱帯魚は雪に焦がれる",
                     "ふりだしにおちる",
                     "ゆるキャン△",
@@ -42,21 +53,44 @@
                     "ステラのまほう"
                 ],
                 "game": [
-                    "idle m@ster millionlive theater days",
-                    "idle m@ster shiny colors",
-                    "idle m@ster cinderella girls starlight stage",
-                    "Dance Rush Stardom",
+                    {
+                        "THE IDOL M@STER": [
+                            "ミリオンライブ/シアターデイズ",
+                            "シンデレラガールズ/スターライトステージ",
+                            "シャイニーカラーズ"
+                        ]
+                    },
+                    "DANCERUSH STARDOM",
                     "Dance Dance Revolution",
-                    "Bang Dream Girls Band Party"
+                    "バンドリ ガールズバンドパーティ"
                 ],
                 "movie": [
                     "Kingsman",
                     "whiplash",
                     "Fast Furious"
+                ],
+                "musician": [
+                    "amazarashi",
+                    "fhana",
+                    "sora tob sakana",
+                    "やなぎなぎ",
+                    "川田まみ",
+                    "Ray",
+                    "Rasmus Faber",
+                    "堀江晶太",
+                    "RAISE A SUILEN"
+                ],
+                "music": [
+                    "EXPOSE 'Burn out!!!'",
+                    "フィロソフィー",
+                    "3 AM ディテクティブ・ゲーム",
+                    "スターライト",
+                    "Serment",
+                    "Brave Freak Out"
                 ]
             }
         },
-        "interesting": {
+        "interasting": {
             "technology": [
                 "Elixir/Phoenix",
                 "Golang",
